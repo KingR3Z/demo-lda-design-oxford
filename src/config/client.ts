@@ -79,7 +79,9 @@ export const client = {
 
   // Reviews — placeholder
   reviews: [
-    { name: "Olena Ilchenko", rating: 5, text: "Thank you DLA for helping me to prepare and pass my driving test the first time. I wanted to thank my very competent instructor Yaseer Kotob for all the tips and hints, as well as for boosting my confidence before the test. It was a …  ", date: "7 years ago" },
+    { name: "Luke H", rating: 5, text: "Passed my test first time with Ibrar Ch! Great instructor and got me test ready. Told me exactly what to focus on and how to fix my mistakes. Massive thanks to him and definitely recommend using these guys if you want to learn to drive!", date: "a year ago" },
+    { name: "Julius", rating: 5, text: "Ibrar Ch was an excellent instructor, passed first time because of him. Would recommend to anyone", date: "a year ago" },
+    { name: "Olena Ilchenko", rating: 5, text: "Thank you DLA for helping me to prepare and pass my driving test the first time. I wanted to thank my very competent instructor Yaseer Kotob for all the tips and hints, as well as for boosting my confidence before the test. It was a pleasure from the first phone contact and every lesson, I would highly recommend this school and instructor.", date: "7 years ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
 
   // SEO
